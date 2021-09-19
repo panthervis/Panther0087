@@ -1,5 +1,5 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=Panther0087&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=dafdc0&bg_color=151515" width="300px">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Panther0087&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=dafdc0&bg_color=000000" width="300px">
 
 
 
