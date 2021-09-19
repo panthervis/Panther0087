@@ -8,3 +8,5 @@
 - 📫 How to reach me: ... c0087ms1@outlook.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love coding and I program like panther. Preparing much, and attacking and winning in a moment. :)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
