@@ -1,5 +1,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-https://github-readme-stats.vercel.app/api?username=Panther0087&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=dafdc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=Panther0087&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=dafdc&bg_color=151515">
+
 
 
 ### Hi there 👋
