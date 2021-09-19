@@ -8,3 +8,4 @@
 - 👯 I’m looking to collaborate on ... building smart contracts and tokens with my Strongest SOLIDITY.
 - 📫 How to reach me: ... c0087ms1@outlook.com
 - ⚡ Fun fact: ... I love coding and I program like panther. Preparing much, and attacking and winning in a moment. :)
+                   I put much importance to PRIVACY.
