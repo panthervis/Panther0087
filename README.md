@@ -1,5 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=Panther0087&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=dafdc0&bg_color=000000" width="300px">
+<img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2a32ee3b52675a453e2881%2FFascinating-Examples-Of-How-Blockchain-Is-Used-In-Insurance--Banking-And-Travel%2F960x0.jpg%3Ffit%3Dscale">
 
 
 
